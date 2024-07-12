@@ -303,7 +303,7 @@ h4 {
     text-decoration: none; /* Remove underline from links */
     color: inherit; /* Inherit parent color (red) */
     display: inline-block; /* Ensure links stay in the same line */
-    margin: 0 10px; /* Add space between links if needed */
+  margin-right: 5px;
 }
 
 ::-webkit-scrollbar {
